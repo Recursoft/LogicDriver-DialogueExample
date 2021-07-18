@@ -9,7 +9,7 @@ Includes behavior to autoplace dialogue transitions and limit choices to dialogu
 Dialogue nodes support loading text from data tables through the details panel.
 
 Logic Driver Dialogue Component can be added to any actor which should speak.
-Logic Driver Dialogue Manager component should be used as a singleton. In this template it's expected to be on the player, but could be refactored to use the game mode.
+Logic Driver Dialogue Manager component should be used as a singleton. In this template it's expected to be on the game mode.
 
 ### Files Layout
 
