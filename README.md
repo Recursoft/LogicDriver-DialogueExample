@@ -11,7 +11,7 @@ Dialogue nodes support loading text from data tables through the details panel.
 Logic Driver Dialogue Component can be added to any actor which should speak.
 Logic Driver Dialogue Manager component should be used as a singleton. In this template it's expected to be on the game mode.
 
-### Files Layout
+## Files Layout
 
 - Template folder contains base files for use in your project.
 - Samples folder contains example implementations and an example map.
@@ -19,3 +19,7 @@ Logic Driver Dialogue Manager component should be used as a singleton. In this t
 ---
 
 ![](ProjectImage.jpg)
+
+## Project Integration and Overview Video
+
+[![DialogueProject Overview](https://img.youtube.com/vi/95jRwPLdZeM/0.jpg)](https://www.youtube.com/watch?v=95jRwPLdZeM)
